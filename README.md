@@ -1,3 +1,4 @@
+<sub>Redação do ReadMe em andamento...</sub>
 # Operações binárias entre polígonos
 
 Uma implementação do algoritmos de Weiler-Atherton para fazer as operações de união, intersecção e negação.
